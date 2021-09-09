@@ -39,3 +39,15 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+/*.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.col{
+    background-color: darkslategray;
+}*/
